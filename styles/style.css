@@ -1,0 +1,14 @@
+div {
+    text-align: center;
+    width: 20%;
+    background-color: bisque;
+    padding: 25px;
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+}
